@@ -6,7 +6,8 @@ Welcome! This repository includes all the Excel files I’ve used and developed 
 This dashboard was created to explore salary trends across various data roles. The goal was to analyze and visualize compensation patterns to better understand how factors like job title and location impact pay.  
 [View the dashboard here](Project_1-Dashboard)  
 
-![Salary Dashboard Overview](assets/dashboard.png)
+![Salary Dashboard GIF](https://raw.githubusercontent.com/JohannesAydin96/Excel_Project-Data_Analytics/main/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+
 
 ## Salary Analysis
 With a strong interest in the data job market, I wanted to dig into what skills are most in demand and how they relate to higher salaries. These charts break down the most common tools and technologies requested by employers, as well as some key takeaways from the data.   
