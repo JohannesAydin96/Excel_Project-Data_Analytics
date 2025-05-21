@@ -6,7 +6,7 @@ Welcome! This repository includes all the Excel files I’ve used and developed 
 This dashboard was created to explore salary trends across various data roles. The goal was to analyze and visualize compensation patterns to better understand how factors like job title and location impact pay.  
 [View the dashboard here](Project_1-Dashboard)  
 
-![Salary Dashboard GIF](https://raw.githubusercontent.com/JohannesAydin96/Excel_Project-Data_Analytics/main/0_Resources/Images/2_Project_Analysis_Chart1.png)
+![Salary Dashboard GIF](https://raw.githubusercontent.com/JohannesAydin96/Excel_Project-Data_Analytics/main/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 
 ## Salary Analysis
